@@ -1,0 +1,13 @@
+{
+  "name": "TUSB422",
+  "apiVersion": "1.0.0",
+  "author": "Ryan Huffman",
+  "version": "0.0.1",
+  "description": "",
+  "extensions": {
+    "TUSB422": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "tusb422.Hla"
+    }
+  }
+}
